@@ -1,1 +1,0 @@
-Add optimised WebP, PNG or SVG assets here. Use lowercase hyphenated filenames.
