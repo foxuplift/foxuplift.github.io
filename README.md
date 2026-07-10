@@ -1,0 +1,1 @@
+Updated to match the uploaded visual template while keeping the agreed FoxUplift architecture. No blog. Positioning: growth partner. Replace placeholder images, contact details, testimonials, metrics and resume.
