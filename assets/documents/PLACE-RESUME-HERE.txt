@@ -1,0 +1,3 @@
+Place the final resume PDF in this folder and name it:
+
+raj-kumar-resume.pdf
